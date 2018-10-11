@@ -1,0 +1,7 @@
+C:\Users\tungr\Workspaces\Clientf5\Clientf5\bin\Debug\Clientf5.exe.config
+C:\Users\tungr\Workspaces\Clientf5\Clientf5\bin\Debug\Clientf5.exe
+C:\Users\tungr\Workspaces\Clientf5\Clientf5\bin\Debug\Clientf5.pdb
+C:\Users\tungr\Workspaces\Clientf5\Clientf5\obj\Debug\Clientf5.csprojAssemblyReference.cache
+C:\Users\tungr\Workspaces\Clientf5\Clientf5\obj\Debug\Clientf5.csproj.CoreCompileInputs.cache
+C:\Users\tungr\Workspaces\Clientf5\Clientf5\obj\Debug\Clientf5.exe
+C:\Users\tungr\Workspaces\Clientf5\Clientf5\obj\Debug\Clientf5.pdb

@@ -1,0 +1,7 @@
+C:\Users\tungr\Workspaces\Serverf5\Serverf5\bin\Debug\Serverf5.exe.config
+C:\Users\tungr\Workspaces\Serverf5\Serverf5\bin\Debug\Serverf5.exe
+C:\Users\tungr\Workspaces\Serverf5\Serverf5\bin\Debug\Serverf5.pdb
+C:\Users\tungr\Workspaces\Serverf5\Serverf5\obj\Debug\Serverf5.csprojAssemblyReference.cache
+C:\Users\tungr\Workspaces\Serverf5\Serverf5\obj\Debug\Serverf5.csproj.CoreCompileInputs.cache
+C:\Users\tungr\Workspaces\Serverf5\Serverf5\obj\Debug\Serverf5.exe
+C:\Users\tungr\Workspaces\Serverf5\Serverf5\obj\Debug\Serverf5.pdb
